@@ -1,0 +1,63 @@
+body {
+  background-color: #FAFAF9;
+}
+
+.card {
+  box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+  border-radius: 10px;
+  margin-top: 164px;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+}
+
+.container {
+  width: 336px;
+  border-bottom: solid 1px #E5EAF0;
+  padding: 16px 16px 20px 16px;
+}
+
+.container h3 {
+  font-family: "Sora", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #20293A;
+  margin: 0 0 6px 0;
+  letter-spacing: -1%;
+}
+
+.container p {
+  font-family: "Sora", sans-serif;
+  font-size: 14px;
+  font-weight: 250;
+  color: #6C727F;
+  padding: 0;
+  margin: 0;
+  line-height: 1.5;
+  letter-spacing: -1%;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.tag {
+  background-color: #E6D6FC;
+  color: #883AE1;
+  font-family: "Sora", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  width: fit-content;
+  padding: 6px 16px 6px 16px;
+  border-radius: 50px;
+  margin: 16px 0 16px 0;
+}
+
+.author {
+  font-family: "Sora", sans-serif;
+  font-size: 12px;
+  padding: 16px;
+  color: #6C727F;
+  letter-spacing: -1%;
+}
